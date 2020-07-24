@@ -1,0 +1,4 @@
+com\lg\gateway\GatewayApp.class
+com\lg\gateway\utils\JwtUtil.class
+com\lg\gateway\config\CorsConfig.class
+com\lg\gateway\filter\AuthFilter.class
